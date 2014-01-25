@@ -6,4 +6,4 @@ January 26, 2014, 0:29:43
 
 Copyright (C) 2014 OX(Eo Zenfung) http://www.ooxx.dk
 
-*其中以"JPG"后缀结尾的文件档案不在此授权范围内,归原作者所有!
+*其中以"JPG"后缀结尾的文件档案不在此授权范围内,版权归原作者所有!
