@@ -1,0 +1,72 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors OX (you@example.org)
+ * @date    2014-01-23 18:45:01
+ * @version $Id$
+ */
+
+/* Page */
+#container {
+	position: relative;
+	height: auto;
+}
+article {
+	width: calc( 100% - 1rem );
+	float: none;
+	height: auto;
+	background: none;
+	margin-left: 1rem;
+	display: block;
+}
+.post-info {
+	position: absolute;
+	left: 0;
+	top: 0;
+	float: none;
+	background-color: rgba(255,255,255,.8);
+	min-height: 200px;
+	padding-bottom: 1rem;
+	display: block;
+}
+.entry {
+	position: absolute;
+	top: 0;
+	left: 25%;
+	float: none;
+	width: 70%;
+	margin: 0 0 2rem .5rem;
+	height: auto;
+	padding: 1rem;
+	background-color: rgba(255,255,255,.8);
+	display: block;
+}
+.post-day-b {
+	left: -180px;
+}
+.post-tags-div {
+	width: 47%;
+}
+.post-edit-btn {
+	position: static;
+	width: 2rem;
+	margin: 0;
+}
+
+footer {
+	min-height: 0;
+}
+
+/*Single*/
+.single {
+	width: 75%;
+}
+#sidebar {
+	position: absolute;
+	top: 125px;
+	right: 5px;
+	width: 20%;
+}
+#single-entry {
+	width: 75%;
+}
